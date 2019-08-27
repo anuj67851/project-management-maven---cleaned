@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="NewPersistenceUnit">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>com.pms.entity.Admin</class>
+        <class>com.pms.entity.Guide</class>
+        <class>com.pms.entity.Student</class>
+        <class>com.pms.entity.Company</class>
+        <class>com.pms.entity.Project</class>
+        <class>com.pms.entity.Evaluation</class>
+        <class>com.pms.entity.Presentation</class>
+        <class>com.pms.entity.Review</class>
+        <class>com.pms.entity.Templates</class>
+        <class>com.pms.entity.Files</class>
+        <class>com.pms.entity.User</class>
+        <properties>
+            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/sgp-pms"/>
+            <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+            <property name="hibernate.connection.username" value=""/>
+            <property name="hibernate.connection.password" value=""/>
+            <property name="hibernate.archive.autodetection" value="class"/>
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+            <property name="hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>

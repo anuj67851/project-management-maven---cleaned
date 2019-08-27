@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project-management-maven:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca852544-f545-4965-a833-dceeb81face5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f8838f9f-da69-407c-af45-dcc846329146.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f8838f9f-da69-407c-af45-dcc846329146.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pms/Dao/S3Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pms/Dao/S3Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projectFinalReport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projectFinalReport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/students.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/students.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/top-side-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/top-side-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/guide/templates/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/guide/templates/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/studentTests/submitProjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/project-management-maven.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/project-management/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/projectFinalReport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/projectFinalReport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/students.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/students.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/templates/top-side-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/project-management/WEB-INF/view/admin/templates/top-side-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/guide/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/guide/templates/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/project-management/WEB-INF/view/guide/templates/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/project-management/WEB-INF/view/student/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/studentTests/submitProjectTest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sgp-pms@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project-management-maven" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/S3Repository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/SUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/SendMail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/top-side-nav.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1717">
+              <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/templates/top-nav.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="72" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/attData.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>noti</find>
+      <find>1</find>
+      <find>theStudent.project</find>
+      <find>project</find>
+      <find>\&quot;</find>
+      <find>roll</find>
+      <find>genSalt</find>
+      <find>recordNumber</find>
+      <find>td</find>
+      <find>finishReq</find>
+      <find>finReq</find>
+      <find>|</find>
+      <find>,</find>
+      <find>style</find>
+      <find>&lt;/TABLE</find>
+      <find>G1</find>
+      <find>g1</find>
+      <find>admin</find>
+      <find>g2</find>
+      <find>addGuide</find>
+      <find>allow</find>
+      <find>appr</find>
+      <find>theProject</find>
+      <find>getSy</find>
+      <find>reject</find>
+      <find>deleteS</find>
+      <find>remo</find>
+      <find>deleteP</find>
+      <find>deletePro</find>
+      <find>deleteGu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2</replace>
+      <replace>theProject</replace>
+      <replace>'</replace>
+      <replace>user</replace>
+      <replace>|</replace>
+      <replace>,</replace>
+      <replace>%</replace>
+      <replace>emptyStyle</replace>
+      <replace>G2</replace>
+      <replace>Admin</replace>
+      <replace>g2</replace>
+      <replace>g1</replace>
+      <replace>admin</replace>
+      <replace>theStudent.project</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/MessageSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/SendMail.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/announcement.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/AdminDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/profile.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/ExamDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/files.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/BCryptGen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/LoginDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/controller/GuideController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/sendGroupMail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projectDetailsAll.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/dbAnother.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/service/LoginService.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/attData.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/aws.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/FilesDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Files.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/submitProject.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Presentation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Evaluation.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/templates/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/EvalDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projects.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/ProjectDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Guide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/studentDetailsAll.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/DataWriterStudentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/utility/TableGen.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/addExam.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/addExaminer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/GuideDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/examiners.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/students.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pms/Dao/S3Repository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/guide/templates/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projectFinalReport.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/top-side-nav.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="project-management Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pms" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-management-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-management-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="f8838f9f-da69-407c-af45-dcc846329146" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551178059543" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="G:/Hackathon-Hexahive/hackathon-attendance" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pms.Dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\java\com\pms\Dao" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\resources" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pms.utility" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.pms.entity" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\webapp\WEB-INF\view\admin" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\webapp\WEB-INF\view" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\webapp\WEB-INF" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven\src\main\webapp\WEB-INF\view\password" />
+      <recent name="G:\Academics\sixth sem\sgp\project-management-maven" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.8">
+    <configuration name="S3Repository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pms.Dao.S3Repository" />
+      <module name="project-management-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pms.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="project-management-maven:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_8_project-management-maven" />
+        <option name="JNDI_PORT" value="2099" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1071" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="project-management-maven:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="project-management-maven:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_project-management-maven" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1071" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="project-management-maven:war exploded" />
+          <artifact name="project-management-maven:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.S3Repository" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S3Repository" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca852544-f545-4965-a833-dceeb81face5" name="Default Changelist" comment="" />
+      <created>1548011365261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548011365261</updated>
+      <workItem from="1548011369793" duration="952000" />
+      <workItem from="1548012425123" duration="5795000" />
+      <workItem from="1548018315590" duration="1462000" />
+      <workItem from="1548020218292" duration="135000" />
+      <workItem from="1548059633988" duration="5715000" />
+      <workItem from="1548066405245" duration="21000" />
+      <workItem from="1548066504041" duration="774000" />
+      <workItem from="1548068067145" duration="216000" />
+      <workItem from="1548082849919" duration="9295000" />
+      <workItem from="1548137547001" duration="75000" />
+      <workItem from="1548140019968" duration="528000" />
+      <workItem from="1548142157686" duration="1264000" />
+      <workItem from="1548168047063" duration="8131000" />
+      <workItem from="1548185271290" duration="1347000" />
+      <workItem from="1548236775148" duration="3020000" />
+      <workItem from="1548253186365" duration="3298000" />
+      <workItem from="1548257508461" duration="1313000" />
+      <workItem from="1548271760772" duration="430000" />
+      <workItem from="1548347166946" duration="35000" />
+      <workItem from="1548349850795" duration="550000" />
+      <workItem from="1548399267632" duration="179000" />
+      <workItem from="1548403593162" duration="19696000" />
+      <workItem from="1548510956558" duration="12604000" />
+      <workItem from="1548526355568" duration="102000" />
+      <workItem from="1548601391472" duration="15981000" />
+      <workItem from="1548690989353" duration="9527000" />
+      <workItem from="1548700648795" duration="1536000" />
+      <workItem from="1548779946637" duration="13762000" />
+      <workItem from="1548795995852" duration="353000" />
+      <workItem from="1548863789888" duration="1211000" />
+      <workItem from="1548865248803" duration="12388000" />
+      <workItem from="1548877721256" duration="4465000" />
+      <workItem from="1548882944171" duration="1041000" />
+      <workItem from="1548884606259" duration="69000" />
+      <workItem from="1548885315234" duration="375000" />
+      <workItem from="1548917286017" duration="2799000" />
+      <workItem from="1548920507120" duration="121000" />
+      <workItem from="1548922050699" duration="641000" />
+      <workItem from="1548955835268" duration="2483000" />
+      <workItem from="1548958533541" duration="163000" />
+      <workItem from="1549035667240" duration="15549000" />
+      <workItem from="1549122111116" duration="9136000" />
+      <workItem from="1549137839128" duration="1072000" />
+      <workItem from="1549139530830" duration="207000" />
+      <workItem from="1549140376659" duration="90000" />
+      <workItem from="1549144806747" duration="65000" />
+      <workItem from="1549145245186" duration="106000" />
+      <workItem from="1549173183842" duration="2082000" />
+      <workItem from="1549204520546" duration="122000" />
+      <workItem from="1549204816091" duration="9000" />
+      <workItem from="1549205758847" duration="8576000" />
+      <workItem from="1549215310629" duration="4191000" />
+      <workItem from="1549260823926" duration="643000" />
+      <workItem from="1549281724874" duration="1707000" />
+      <workItem from="1549287071036" duration="12707000" />
+      <workItem from="1549300902395" duration="110000" />
+      <workItem from="1549303489206" duration="126000" />
+      <workItem from="1549347908810" duration="275000" />
+      <workItem from="1549358165626" duration="599000" />
+      <workItem from="1549361282748" duration="695000" />
+      <workItem from="1549363298296" duration="224000" />
+      <workItem from="1549384612818" duration="204000" />
+      <workItem from="1549384876530" duration="70000" />
+      <workItem from="1549385023584" duration="18000000" />
+      <workItem from="1549403902177" duration="2303000" />
+      <workItem from="1549407095385" duration="1883000" />
+      <workItem from="1549419263474" duration="810000" />
+      <workItem from="1549421287600" duration="457000" />
+      <workItem from="1549433445692" duration="1102000" />
+      <workItem from="1549443003994" duration="510000" />
+      <workItem from="1549443690765" duration="4836000" />
+      <workItem from="1549523792665" duration="824000" />
+      <workItem from="1549556091981" duration="17358000" />
+      <workItem from="1549575751949" duration="651000" />
+      <workItem from="1549645271371" duration="668000" />
+      <workItem from="1549708024636" duration="689000" />
+      <workItem from="1549710501110" duration="6092000" />
+      <workItem from="1549728922491" duration="39000" />
+      <workItem from="1549734674648" duration="46000" />
+      <workItem from="1549739480146" duration="3891000" />
+      <workItem from="1549772448799" duration="53000" />
+      <workItem from="1549968419408" duration="163000" />
+      <workItem from="1550042870708" duration="1458000" />
+      <workItem from="1550044997098" duration="9000" />
+      <workItem from="1550045200758" duration="237000" />
+      <workItem from="1550045620092" duration="328000" />
+      <workItem from="1550046099745" duration="70000" />
+      <workItem from="1550046241794" duration="210000" />
+      <workItem from="1550046509599" duration="100000" />
+      <workItem from="1550046728939" duration="214000" />
+      <workItem from="1550047150482" duration="1735000" />
+      <workItem from="1550068708101" duration="226000" />
+      <workItem from="1550074872750" duration="608000" />
+      <workItem from="1550075937121" duration="710000" />
+      <workItem from="1550133501059" duration="344000" />
+      <workItem from="1550136511881" duration="328000" />
+      <workItem from="1550137037498" duration="261000" />
+      <workItem from="1550585422269" duration="5258000" />
+      <workItem from="1550590760651" duration="5605000" />
+      <workItem from="1550598347576" duration="1664000" />
+      <workItem from="1550600332763" duration="272000" />
+      <workItem from="1550604219146" duration="550000" />
+      <workItem from="1550663331459" duration="2580000" />
+      <workItem from="1550675977804" duration="602000" />
+      <workItem from="1550676741407" duration="213000" />
+      <workItem from="1551075565488" duration="1349000" />
+      <workItem from="1551087492313" duration="745000" />
+      <workItem from="1551105154161" duration="982000" />
+      <workItem from="1551161995722" duration="151000" />
+      <workItem from="1551171828600" duration="5645000" />
+      <workItem from="1551197430909" duration="101000" />
+      <workItem from="1551204355358" duration="374000" />
+      <workItem from="1551251927553" duration="705000" />
+      <workItem from="1551288163650" duration="495000" />
+      <workItem from="1551293576993" duration="2000" />
+      <workItem from="1551344442315" duration="597000" />
+      <workItem from="1551370416333" duration="117000" />
+      <workItem from="1552299044373" duration="1585000" />
+      <workItem from="1552302479227" duration="1173000" />
+      <workItem from="1552644378238" duration="649000" />
+      <workItem from="1552664127853" duration="502000" />
+      <workItem from="1553014252310" duration="50000" />
+      <workItem from="1554263810314" duration="945000" />
+      <workItem from="1554264968607" duration="430000" />
+      <workItem from="1555181089471" duration="889000" />
+      <workItem from="1555184047657" duration="76000" />
+      <workItem from="1555184165904" duration="191000" />
+      <workItem from="1555184443054" duration="954000" />
+      <workItem from="1555185480345" duration="466000" />
+      <workItem from="1555186701058" duration="761000" />
+      <workItem from="1555691817660" duration="440000" />
+      <workItem from="1555733072001" duration="2520000" />
+      <workItem from="1559805462063" duration="140000" />
+      <workItem from="1559813053137" duration="308000" />
+      <workItem from="1564600803094" duration="495000" />
+      <workItem from="1565426226573" duration="478000" />
+      <workItem from="1566239669558" duration="532000" />
+      <workItem from="1566240883354" duration="562000" />
+      <workItem from="1566241932678" duration="46000" />
+      <workItem from="1566242101451" duration="725000" />
+      <workItem from="1566245208434" duration="5000" />
+      <workItem from="1566280682890" duration="467000" />
+      <workItem from="1566370427704" duration="310000" />
+      <workItem from="1566497586177" duration="33000" />
+      <workItem from="1566927518663" duration="138000" />
+    </task>
+    <task id="LOCAL-00046" summary="files added">
+      <created>1548958661441</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1548958661441</updated>
+    </task>
+    <task id="LOCAL-00047" summary="files added">
+      <created>1549050991076</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1549050991076</updated>
+    </task>
+    <task id="LOCAL-00048" summary="files added">
+      <created>1549051237974</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1549051237974</updated>
+    </task>
+    <task id="LOCAL-00049" summary="files added">
+      <created>1549138493503</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1549138493505</updated>
+    </task>
+    <task id="LOCAL-00050" summary="files added">
+      <created>1549138910643</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1549138910643</updated>
+    </task>
+    <task id="LOCAL-00051" summary="files added">
+      <created>1549139718262</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1549139718263</updated>
+    </task>
+    <task id="LOCAL-00052" summary="files added">
+      <created>1549140465044</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1549140465045</updated>
+    </task>
+    <task id="LOCAL-00053" summary="files added">
+      <created>1549144868037</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1549144868038</updated>
+    </task>
+    <task id="LOCAL-00054" summary="files added">
+      <created>1549145348125</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1549145348127</updated>
+    </task>
+    <task id="LOCAL-00055" summary="files added">
+      <created>1549175261420</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1549175261421</updated>
+    </task>
+    <task id="LOCAL-00056" summary="files added">
+      <created>1549208772311</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1549208772312</updated>
+    </task>
+    <task id="LOCAL-00057" summary="files added">
+      <created>1549215120617</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1549215120617</updated>
+    </task>
+    <task id="LOCAL-00058" summary="files added">
+      <created>1549219204397</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1549219204398</updated>
+    </task>
+    <task id="LOCAL-00059" summary="files added">
+      <created>1549297368410</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1549297368411</updated>
+    </task>
+    <task id="LOCAL-00060" summary="files added">
+      <created>1549298276057</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1549298276057</updated>
+    </task>
+    <task id="LOCAL-00061" summary="files added">
+      <created>1549298591021</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1549298591021</updated>
+    </task>
+    <task id="LOCAL-00062" summary="files added">
+      <created>1549299195043</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1549299195043</updated>
+    </task>
+    <task id="LOCAL-00063" summary="files added">
+      <created>1549299864615</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549299864615</updated>
+    </task>
+    <task id="LOCAL-00064" summary="files added">
+      <created>1549300025175</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1549300025175</updated>
+    </task>
+    <task id="LOCAL-00065" summary="files added">
+      <created>1549300282400</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1549300282400</updated>
+    </task>
+    <task id="LOCAL-00066" summary="files added">
+      <created>1549303614408</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1549303614410</updated>
+    </task>
+    <task id="LOCAL-00067" summary="files added">
+      <created>1549391807309</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1549391807310</updated>
+    </task>
+    <task id="LOCAL-00068" summary="files added">
+      <created>1549398006898</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1549398006899</updated>
+    </task>
+    <task id="LOCAL-00069" summary="files added">
+      <created>1549402805112</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1549402805112</updated>
+    </task>
+    <task id="LOCAL-00070" summary="files added">
+      <created>1549405044974</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1549405044974</updated>
+    </task>
+    <task id="LOCAL-00071" summary="files added">
+      <created>1549405665734</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1549405665734</updated>
+    </task>
+    <task id="LOCAL-00072" summary="files added">
+      <created>1549406209780</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1549406209780</updated>
+    </task>
+    <task id="LOCAL-00073" summary="files added">
+      <created>1549408978443</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1549408978444</updated>
+    </task>
+    <task id="LOCAL-00074" summary="files added">
+      <created>1549420074497</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1549420074502</updated>
+    </task>
+    <task id="LOCAL-00075" summary="files added">
+      <created>1549421742186</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1549421742187</updated>
+    </task>
+    <task id="LOCAL-00076" summary="files added">
+      <created>1549557746049</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1549557746050</updated>
+    </task>
+    <task id="LOCAL-00077" summary="files added">
+      <created>1549557977863</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1549557977863</updated>
+    </task>
+    <task id="LOCAL-00078" summary="files added">
+      <created>1549571375873</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1549571375873</updated>
+    </task>
+    <task id="LOCAL-00079" summary="files added">
+      <created>1549574882633</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1549574882633</updated>
+    </task>
+    <task id="LOCAL-00080" summary="files added">
+      <created>1549576422395</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1549576422398</updated>
+    </task>
+    <task id="LOCAL-00081" summary="files added">
+      <created>1550047177589</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1550047177590</updated>
+    </task>
+    <task id="LOCAL-00082" summary="files added">
+      <created>1550075122272</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1550075122273</updated>
+    </task>
+    <task id="LOCAL-00083" summary="files added">
+      <created>1550595528818</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1550595528819</updated>
+    </task>
+    <task id="LOCAL-00084" summary="files added">
+      <created>1550596613425</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1550596613426</updated>
+    </task>
+    <task id="LOCAL-00085" summary="files added">
+      <created>1550665925007</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1550665925008</updated>
+    </task>
+    <task id="LOCAL-00086" summary="files added">
+      <created>1550676319478</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1550676319478</updated>
+    </task>
+    <task id="LOCAL-00087" summary="files added">
+      <created>1550676400538</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1550676400538</updated>
+    </task>
+    <task id="LOCAL-00088" summary="files added">
+      <created>1550676762127</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1550676762127</updated>
+    </task>
+    <task id="LOCAL-00089" summary="files added">
+      <created>1551087553333</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1551087553334</updated>
+    </task>
+    <task id="LOCAL-00090" summary="files added">
+      <created>1551173571545</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1551173571546</updated>
+    </task>
+    <task id="LOCAL-00091" summary="files added">
+      <created>1551174076354</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1551174076354</updated>
+    </task>
+    <task id="LOCAL-00092" summary="files added">
+      <created>1551175585360</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1551175585361</updated>
+    </task>
+    <task id="LOCAL-00093" summary="files added">
+      <created>1551178062351</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1551178062352</updated>
+    </task>
+    <task id="LOCAL-00094" summary="files added">
+      <created>1551252173555</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1551252173556</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="313507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45892352" visible="true" weight="0.2342282" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.25302014" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50141644" side_tool="true" weight="0.27919462" />
+      <window_info id="Learn" order="8" />
+      <window_info id="Web" order="9" side_tool="true" />
+      <window_info id="Persistence" order="10" sideWeight="0.5410765" side_tool="true" weight="0.21744967" />
+      <window_info id="JRebel" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4362606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.3286119" />
+      <window_info anchor="bottom" id="File Transfer" order="18" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="19" weight="0.3286119" />
+      <window_info anchor="bottom" id="Statistic" order="20" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="21" weight="0.3286119" />
+      <window_info anchor="bottom" id="JRebel Console" order="22" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="23" />
+      <window_info anchor="bottom" id="Flutter Performance" order="24" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Regex Tester" order="25" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.3295302" />
+      <window_info anchor="right" id="Flutter Outline" order="12" />
+      <window_info anchor="right" id="Flutter Inspector" order="13" />
+      <window_info anchor="right" id="R Graphics" order="14" />
+      <window_info anchor="right" id="R Packages" order="15" />
+      <window_info anchor="right" id="Bean Validation" order="16" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45892352" visible="true" weight="0.22751679" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.25302014" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50141644" side_tool="true" weight="0.27919462" />
+      <window_info id="Learn" order="8" />
+      <window_info id="Web" order="9" side_tool="true" />
+      <window_info id="Persistence" order="10" sideWeight="0.5410765" side_tool="true" weight="0.21744967" />
+      <window_info id="JRebel" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4362606" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.3286119" />
+      <window_info anchor="bottom" id="File Transfer" order="18" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="19" weight="0.3286119" />
+      <window_info anchor="bottom" id="Statistic" order="20" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="21" weight="0.3286119" />
+      <window_info anchor="bottom" id="JRebel Console" order="22" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="23" />
+      <window_info anchor="bottom" id="Flutter Performance" order="24" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Regex Tester" order="25" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.3295302" />
+      <window_info anchor="right" id="Flutter Outline" order="12" />
+      <window_info anchor="right" id="Flutter Inspector" order="13" />
+      <window_info anchor="right" id="R Graphics" order="14" />
+      <window_info anchor="right" id="R Packages" order="15" />
+      <window_info anchor="right" id="Bean Validation" order="16" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="files added" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Templates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/submitProject.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="233" column="2" lean-forward="true" selection-start-line="233" selection-start-column="2" selection-end-line="233" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-s3/1.11.500/aws-java-sdk-s3-1.11.500.jar!/com/amazonaws/services/s3/AmazonS3Client.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845">
+          <caret line="1125" column="27" selection-start-line="1125" selection-start-column="27" selection-end-line="1125" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/aws.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Presentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/templates/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Evaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/AdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/EvalDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projects.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/FilesDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/admins.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/exams.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/ExamDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Guide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="141" column="5" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="306" column="5" selection-start-line="306" selection-start-column="5" selection-end-line="306" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/DataWriterStudentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="201" column="5" selection-start-line="201" selection-start-column="5" selection-end-line="201" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/TableGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="262" column="5" selection-start-line="262" selection-start-column="5" selection-end-line="262" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/studentDetailsAll.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1700">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/addExaminer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/students.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/GuideDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7089">
+          <caret line="417" column="5" selection-start-line="417" selection-start-column="5" selection-end-line="417" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/examiners.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="120" selection-start-line="113" selection-start-column="120" selection-end-line="113" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/guides.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="215" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/guide/templates/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Persistence/JavaeeElement:/c0ffac79/NewPersistenceUnit/project-management-maven/jpa/JPA/PersistenceModel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Persistence</ID>
+          <OriginalElement>JavaeeElement:/c0ffac79/NewPersistenceUnit/project-management-maven/jpa/JPA/PersistenceModel</OriginalElement>
+          <nodes>
+            <node x="556.1153846153846" y="583.0">Presentation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Presentation.java</node>
+            <node x="507.4102564102564" y="297.0">Review#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Review.java</node>
+            <node x="420.99038461538464" y="583.0">Evaluation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Evaluation.java</node>
+            <node x="417.28205128205127" y="66.0">Files#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Files.java</node>
+            <node x="121.00000000000006" y="308.0">Guide#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Guide.java</node>
+            <node x="0.0" y="352.0">Admin#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Admin.java</node>
+            <node x="714.1153846153846" y="0.0">Templates#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Templates.java</node>
+            <node x="194.53205128205133" y="759.0">Company#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Company.java</node>
+            <node x="320.00000000000006" y="275.0">Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java</node>
+            <node x="148.2820512820513" y="0.0">User#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/User.java</node>
+            <node x="219.53205128205133" y="528.0">Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java" target="Files#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Files.java">
+              <point x="0.0" y="-90.5" />
+              <point x="290.0320512820513" y="508.0" />
+              <point x="309.50000000000006" y="508.0" />
+              <point x="309.50000000000006" y="255.0" />
+              <point x="429.90705128205127" y="255.0" />
+              <point x="-37.875" y="46.5" />
+            </edge>
+            <edge source="Presentation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Presentation.java" target="Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java">
+              <point x="-37.66666666666663" y="-35.5" />
+              <point x="574.948717948718" y="498.0" />
+              <point x="455.00000000000006" y="498.0" />
+              <point x="54.0" y="101.5" />
+            </edge>
+            <edge source="Admin#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Admin.java" target="User#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/User.java">
+              <point x="0.0" y="-24.5" />
+              <point x="50.5" y="255.0" />
+              <point x="169.11538461538464" y="255.0" />
+              <point x="-41.66666666666666" y="112.5" />
+            </edge>
+            <edge source="Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java" target="Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java">
+              <point x="47.0" y="-90.5" />
+              <point x="337.0320512820513" y="508.0" />
+              <point x="347.00000000000006" y="508.0" />
+              <point x="-54.0" y="101.5" />
+            </edge>
+            <edge source="Evaluation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Evaluation.java" target="Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java">
+              <point x="-36.33333333333337" y="-35.5" />
+              <point x="439.15705128205127" y="508.0" />
+              <point x="401.00000000000006" y="508.0" />
+              <point x="0.0" y="101.5" />
+            </edge>
+            <edge source="Presentation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Presentation.java" target="Review#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Review.java">
+              <point x="0.0" y="-35.5" />
+              <point x="612.6153846153846" y="508.0" />
+              <point x="599.6602564102564" y="508.0" />
+              <point x="30.75" y="79.5" />
+            </edge>
+            <edge source="Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java" target="Guide#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Guide.java">
+              <point x="-47.0" y="-90.5" />
+              <point x="243.03205128205133" y="508.0" />
+              <point x="210.00000000000006" y="508.0" />
+              <point x="0.0" y="68.5" />
+            </edge>
+            <edge source="Company#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Company.java" target="Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java">
+              <point x="0.0" y="-112.5" />
+              <point x="0.0" y="90.5" />
+            </edge>
+            <edge source="Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java" target="User#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/User.java">
+              <point x="-40.5" y="-101.5" />
+              <point x="360.50000000000006" y="245.0" />
+              <point x="252.44871794871796" y="245.0" />
+              <point x="41.66666666666666" y="112.5" />
+            </edge>
+            <edge source="Evaluation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Evaluation.java" target="Files#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Files.java">
+              <point x="0.0" y="-35.5" />
+              <point x="475.49038461538464" y="508.0" />
+              <point x="492.50000000000006" y="508.0" />
+              <point x="492.50000000000006" y="255.0" />
+              <point x="480.40705128205127" y="255.0" />
+              <point x="12.625" y="46.5" />
+            </edge>
+            <edge source="Guide#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Guide.java" target="User#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/User.java">
+              <point x="0.0" y="-68.5" />
+              <point x="0.0" y="112.5" />
+            </edge>
+            <edge source="Evaluation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Evaluation.java" target="Review#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Review.java">
+              <point x="36.333333333333314" y="-35.5" />
+              <point x="511.82371794871796" y="508.0" />
+              <point x="538.1602564102564" y="508.0" />
+              <point x="-30.75" y="79.5" />
+            </edge>
+            <edge source="Student#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Student.java" target="Files#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Files.java">
+              <point x="40.5" y="-101.5" />
+              <point x="441.50000000000006" y="255.0" />
+              <point x="455.15705128205127" y="255.0" />
+              <point x="-12.625" y="46.5" />
+            </edge>
+            <edge source="Presentation#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Presentation.java" target="Files#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Files.java">
+              <point x="37.66666666666663" y="-35.5" />
+              <point x="650.2820512820513" y="508.0" />
+              <point x="652.073717948718" y="508.0" />
+              <point x="652.073717948718" y="255.0" />
+              <point x="505.65705128205127" y="255.0" />
+              <point x="37.875" y="46.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.649402390438247" x="413.0" y="484.0" />
+          <SelectedNodes>
+            <node>Project#file://G:/Academics/sixth sem/sgp/project-management-maven/src/main/java/com/pms/entity/Project.java</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Embeddables</Category>
+            <Category>Superclasses</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.RELEASE/spring-aop-4.3.18.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7545">
+          <caret line="524" column="13" selection-start-line="524" selection-start-column="13" selection-end-line="524" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/projectFinalReport.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/ProjectDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="185" column="21" selection-start-line="185" selection-start-column="21" selection-end-line="185" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/Dao/S3Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/SUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/utility/SendMail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pms/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/templates/top-side-nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student/templates/top-nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/attData.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>project-management-maven:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (project-management-maven)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project-management-maven</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
